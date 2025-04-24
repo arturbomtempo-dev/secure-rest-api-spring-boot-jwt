@@ -1,7 +1,8 @@
-package dev.arturbomtempo.secure_api_jwt.security;
+package dev.arturbomtempo.secure_api_jwt.security.userdetails;
 
 import dev.arturbomtempo.secure_api_jwt.model.User;
 import dev.arturbomtempo.secure_api_jwt.repository.UserRepository;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

@@ -1,4 +1,4 @@
-package dev.arturbomtempo.secure_api_jwt.security;
+package dev.arturbomtempo.secure_api_jwt.security.userdetails;
 
 import dev.arturbomtempo.secure_api_jwt.model.User;
 import lombok.Getter;
